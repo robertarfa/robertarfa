@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello 👋
+
+Welcome to my repository, here you can find what I'm working on.
+
+Take a look around.
+
+I'm currently working with ReactJs and TypeScript.
+
+I'm using Strapi, NextJs, BootStrap, Styled Components.
+
+Feel free to ask me any questions.
 
 <!--
 **robertarfa/robertarfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
