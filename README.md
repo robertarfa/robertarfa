@@ -1,7 +1,6 @@
 ### Hello 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-robertarfa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertarfa/)](https://www.linkedin.com/in/robertarfa/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=551195549452&text=Olá!)](https://api.whatsapp.com/send?phone=551195549452&text=Olá!)
 [![Hotmail Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:roberta_rfa@hotmail.com)](mailto:roberta_rfa@hotmail.com)
 
 Welcome to my repository, here you can find what I'm working on.
