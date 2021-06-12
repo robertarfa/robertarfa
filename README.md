@@ -7,7 +7,7 @@ Welcome to my repository, here you can find what I'm working on.
 
 Take a look around.
 
-I'm currently working with ReactJs and TypeScript.
+I'm currently working with ReactJs and Kotlin.
 
 Feel free to ask me any questions.
 
@@ -15,6 +15,7 @@ Feel free to ask me any questions.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link)
+![Kotlin](https://img.shields.io/badge/-React-black?style=flat-square&logo=kotlin&link)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&link)
 
