@@ -7,7 +7,7 @@ Welcome to my repository, here you can find what I'm working on.
 
 Take a look around.
 
-I'm currently working with ReactJs and Kotlin.
+I'm currently working with React and Kotlin.
 
 Feel free to ask me any questions.
 
