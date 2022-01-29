@@ -31,7 +31,7 @@ Feel free to ask me any questions.
 
 ![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp&link)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link)
