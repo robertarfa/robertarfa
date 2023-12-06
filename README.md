@@ -7,12 +7,14 @@ Welcome to my repository, here you can find what I'm working on.
 
 Take a look around.
 
-I'm currently working with ReactJS, ReactNative, C#.
+I'm currently working with Python and C#.
 
 Feel free to ask me any questions.
 
 ### Knowledge
 
+![Python](https://img.shields.io/badge/Python-yellow)
+![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp&link)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=kotlin&link)
@@ -29,7 +31,7 @@ Feel free to ask me any questions.
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link)
 
-![Csharp](https://img.shields.io/badge/-Csharp-black?style=flat-square&logo=Csharp&link)
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql&link=https)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/LuizCarlosAbbott/)
