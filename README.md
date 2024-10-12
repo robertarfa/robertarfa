@@ -7,7 +7,7 @@ Welcome to my repository, here you can find what I'm working on.
 
 Take a look around.
 
-I'm currently working with C#, .Net and ReactJs.
+I'm currently working with Python, C#, .Net and ReactJs.
 
 Feel free to ask me any questions.
 
